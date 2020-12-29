@@ -1,3 +1,5 @@
+/sdl-tester/target
+/cairo/target
 /target/
 /bin/
 /.idea
